@@ -44,7 +44,7 @@ Make sure you have Python 3.10+ installed on your system.
 
 2. **Install the dependencies**:
    ```bash
-   pip install -r requirements_sme.txt
+   pip install -r requirements.txt
    ```
 
 3. **Run the Streamlit application**:
